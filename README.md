@@ -52,7 +52,9 @@ PaddleOCR, Basic Computer Vision, Data Processing
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/AradwadTushar  
+- GitHub: https://github.com/AradwadTushar
+- LinkdIn: https://www.linkedin.com/in/tushar-aradwad-536570307/
+- PortFolio Website: https://dev-tushar-aradwad-portfolio.vercel.app/
 
 ---
 
