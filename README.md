@@ -21,7 +21,7 @@ I enjoy working on real-world problems and have built projects ranging from **de
 - 🧠 **Ingredient Analyzer (Computer Vision Project)**  
   Uses OCR (PaddleOCR) to extract ingredients from food labels and provides health insights for conditions like diabetes and heart disease.
 
-- 🛒 **AI Powered Resume Builder & Analyzer**  
+- 📄 **AI Powered Resume Builder & Analyzer**  
   An intelligent AI-powered resume platform built using React, FastAPI, PostgreSQL, Jinja2, and WeasyPrint.
 
 - 🤖 **AI-based Web Projects**  
