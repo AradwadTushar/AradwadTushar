@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Tushar Aradwad - Full Stack Devloper.png" alt="Banner" width="100%">
+  <img src="assets/Tushar Aradwad - Full Stack Developer.png" alt="Banner" width="100%">
 </p>
 
 # Tushar Aradwad
