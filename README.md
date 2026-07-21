@@ -2,45 +2,11 @@
   <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Tushar Aradwad</h1>
-<h3 align="center">Full Stack Developer • AI Integrated Applications</h3>
+# Tushar Aradwad
 
-<p align="center">
-  <a href="https://dev-tushar-aradwad-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-dev--tushar--aradwad--portfolio.vercel.app-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+Full-Stack Developer — React / Node / FastAPI — AI-Integrated Applications
 
-<p align="center">
-  <a href="https://linkedin.com/in/tushar-aradwad-536570307">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-6E40C9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aradwadtushar2004@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/AradwadTushar">
-    <img src="https://img.shields.io/badge/OPEN%20TO-FULL%20STACK%20%2F%20AI%20ROLES-E84B2A?style=for-the-badge" alt="Open to roles"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AradwadTushar&label=PROFILE%20VIEWS&color=6E40C9&style=for-the-badge" alt="Profile views"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=whoami;Full-Stack+Developer+%7C+React+%2F+Node+%2F+FastAPI;Building+AI-integrated+applications;B.Tech+IT+%7C+First+Class+with+Distinction" alt="Typing SVG" />
-</p>
-
-```
-> whoami
-Tushar Aradwad
-Full-Stack Developer · React / Node / FastAPI · AI-Integrated Applications
-Nagpur, India (open to remote)
-B.Tech IT — First Class with Distinction
-Open to: Full Stack / GenAI / Backend roles
-```
+Nagpur, India (open to remote) · [aradwadtushar2004@gmail.com](mailto:aradwadtushar2004@gmail.com) · [Portfolio](https://dev-tushar-aradwad-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/tushar-aradwad-536570307)
 
 ---
 
@@ -112,7 +78,6 @@ Open to: Full Stack / GenAI / Backend roles
 ## 📫 Reach Out
 
 Open to Full Stack, GenAI, and Backend opportunities — remote or Nagpur-based.
-Fastest way to reach me is email or LinkedIn (badges above).
 
 ---
 
