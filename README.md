@@ -6,7 +6,7 @@
 
 Full-Stack Developer — React / Node / FastAPI — AI-Integrated Applications
 
-Nagpur, India (open to remote) · [aradwadtushar2004@gmail.com](mailto:aradwadtushar2004@gmail.com) · [Portfolio](https://dev-tushar-aradwad-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/tushar-aradwad-536570307)
+Pune, India (open to remote) · [aradwadtushar2004@gmail.com](mailto:aradwadtushar2004@gmail.com) · [Portfolio](https://dev-tushar-aradwad-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/tushar-aradwad-536570307)
 
 ---
 
@@ -77,7 +77,7 @@ Nagpur, India (open to remote) · [aradwadtushar2004@gmail.com](mailto:aradwadtu
 
 ## 📫 Reach Out
 
-Open to Full Stack, GenAI, and Backend opportunities — remote or Nagpur-based.
+Open to Full Stack, GenAI, and Backend opportunities .
 
 ---
 
